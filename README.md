@@ -1,1 +1,2 @@
-# c-38_debug
+# synchronousBallMovement
+Ball moving synchronously
